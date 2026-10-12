@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Авиабилеты</string>
+    <string name="title">Поиск авиабилетов</string>
+    <string name="from_label">Откуда</string>
+    <string name="to_label">Куда</string>
+    <string name="date_departure">Дата вылета</string>
+    <string name="date_return">Дата прилёта</string>
+    <string name="adults">Взрослые</string>
+    <string name="children">Дети</string>
+    <string name="infants">Младенцы</string>
+    <string name="search">Найти билеты</string>
+    <string name="pick_departure">Выберите дату вылета</string>
+    <string name="pick_return">Выберите дату прилёта</string>
+
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+        <item>Екатеринбург</item>
+        <item>Новосибирск</item>
+        <item>Сочи</item>
+        <item>Калининград</item>
+        <item>Владивосток</item>
+    </string-array>
+</resources>
